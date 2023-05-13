@@ -1,0 +1,2 @@
+# amazon-seller-filter-checker
+Amazonの検索ページにマーケットプレイス商品を除外・解除するボタンを追加したり、商品ページにサクラチェッカーの検索結果を開くボタンを追加するUserScript
